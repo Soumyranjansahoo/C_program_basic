@@ -1,2 +1,6 @@
-hii every one 
-wellcome to my directory
+#include<stdio.h>
+void main()
+{
+printf("wellcome to my directory");
+}
+
